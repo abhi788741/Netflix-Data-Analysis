@@ -46,9 +46,3 @@ The dataset contains details about Netflix content such as:
 - TV-MA is the most given rating to movies or shows.
 - 2018 year has significant achievement of releasing most movies and shows.
 - July shows most highest content addtion month.
-
-**Author**
-**Name**: Abhishek Kapure  (Data Analyst Intern)
-**Email**: kapureabhishek16@gmail.com
-**LinkedIn**: https://www.linkedin.com/in/abhikapure/  
-**GitHub**: https://github.com/abhi788741
